@@ -1,0 +1,61 @@
+about:
+  description: Build and run containers leveraging NVIDIA GPUs
+  license: Apache-2.0
+  homepage: 
+  head: e03cd9b
+  archived: false
+  latestVersion: v1.20.0
+  collectedAt: 2026-09-02T05:08:02Z
+timeline:
+  created: 2019-11-14
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-13
+popularity:
+  star: 4536
+  watcher: 49
+  fork: 574
+  release: 101
+  contributor: 76
+  pullRequest: 301
+  issue: 699
+language:
+  Go: 1674982
+  Shell: 95357
+  C: 46057
+  Makefile: 24324
+  Dockerfile: 11984
+  SmPL: 1531
+totalLine: 1854235
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 1
+    mergedPR: 31
+    openPR: 24
+    closedIssue: 3
+    openIssue: 3
+    commit: 23
+  last90d:
+    since: 2026-06-04
+    release: 2
+    mergedPR: 84
+    openPR: 33
+    closedIssue: 20
+    openIssue: 5
+    commit: 79
+  last180d:
+    since: 2026-03-06
+    release: 4
+    mergedPR: 160
+    openPR: 34
+    closedIssue: 41
+    openIssue: 9
+    commit: 137
+  last360d:
+    since: 2025-09-07
+    release: 18
+    mergedPR: 456
+    openPR: 35
+    closedIssue: 94
+    openIssue: 14
+    commit: 436
